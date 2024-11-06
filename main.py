@@ -2,7 +2,7 @@ from eht.utils import ProxyInfo
 import json
 import eht
 
-url = 'https://e-hentai.org/g/123456abc/123456abc/'
+url = 'https://e-hentai.org/g/792200/75054c9c21/'
 directoryName = '123'
 r18g = 1
 
