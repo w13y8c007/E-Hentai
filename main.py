@@ -3,7 +3,7 @@ import json
 import eht
 
 url = 'https://e-hentai.org/g/792200/75054c9c21/'
-directoryName = '123'
+directoryName = 'F:\7 Movie'
 r18g = 1
 
 e = eht.ehentai(url, directoryName, r18g = r18g, proxyinfo = ProxyInfo)
